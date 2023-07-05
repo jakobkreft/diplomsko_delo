@@ -12,12 +12,13 @@
 
 
 1. `sequencer.py`: Video pretvori v zaporedje slik.
-2. `align.py`: Slike leve in desne kamere se ujemajo.
-3. `cropper.py`: Slikam odstranimo črne robove.
-4. `detr.py`: Zazna in shrani robne okvirje objektov.
-5. `CsvtoSingleCOCOvehicle.py`: Iz CSV dobimo posamezne JSON.
-6. `imgviewer.py`: Ročno pregledamo in popravimo napake.
-7. `jsonstoCOCOjson.py`: JSON prevedemo v format COCO.
+2. `renamejpeg.py`: Popravi imena vseh slik.
+3. `align.py`: Slike leve in desne kamere se ujemajo.
+4. `cropper.py`: Slikam odstranimo črne robove.
+5. `detr.py`: Zazna in shrani robne okvirje objektov.
+6. `CsvtoSingleCOCOvehicle.py`: Iz CSV dobimo posamezne JSON.
+7. `imgviewer.py`: Ročno pregledamo in popravimo napake.
+8. `jsonstoCOCOjson.py`: JSON prevedemo v format COCO.
 
 ### faze snemanja
 <img width="280" alt="faze3" src="https://github.com/jakobkreft/diplomsko_delo/assets/70409100/1edcebc0-ddd4-4ca0-9c36-8bebb41787c9">
