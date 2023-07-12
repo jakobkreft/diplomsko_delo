@@ -6,6 +6,9 @@
 - Ljubljana, 2023
 - Univerza v Ljubljani
 
+*PDF diplomskega dela:*
+https://repozitorij.uni-lj.si/IzpisGradiva.php?id=147663
+
 ### koda/
 1. `trigger_Server.py`: sproži snemanje na obeh kamerah.
 2. `rvid.py`: koda na Raspberry pi za snemaje ob sprožitvi.
